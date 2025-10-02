@@ -1,5 +1,7 @@
-
 <h2 align="center">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</h2>
+<div align="center">
+  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVxcjM1b2Z5eHd4aWRybm84dndpMWN0bHVheGFscnh1dGc4bjFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLZdzioXwDJfwY7X5Z/giphy.gif" height="200" alt="cute gif" />
+</div>
 
 <h3 align="center">Just your girly pop here ⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚</h3>
 
@@ -24,12 +26,8 @@
 </div>
 
 <div align="center">
-  <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVxcjM1b2Z5eHd4aWRybm84dndpMWN0bHVheGFscnh1dGc4bjFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLZdzioXwDJfwY7X5Z/giphy.gif" height="200" alt="cute gif" />
+  <img src="https://streak-stats.demolab.com?user=qretzuisx&locale=en&mode=daily&theme=synthwave&hide_border=false&border_radius=5" height="150" alt="streak graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qretzuisx&show_icons=true&theme=synthwave&locale=en&layout=compact" height="150" alt="top languages" />
 </div>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=qretzuisx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
- 
-
-<br clear="both">
 <h2 align="center">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</h2>

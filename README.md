@@ -1,3 +1,6 @@
+
+<h2 align="center">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</h2>
+
 <h3 align="center">Just your girly pop here ⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚</h3>
 
 <div align="center">
@@ -26,7 +29,7 @@
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=qretzuisx&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-  <img src="https://github-profile-trophy.vercel.app?username=qretzuisx&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
-</div>
+ 
 
 <br clear="both">
+<h2 align="center">₊˚ ✧ ━━━━⊱⋆⊰━━━━ ✧ ₊˚</h2>

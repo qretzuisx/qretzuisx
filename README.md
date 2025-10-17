@@ -21,7 +21,7 @@
 </div>
 
 <div align="center">
-  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qretzuisx&theme=synthwave" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=qretzuisx&theme=synthwave" height="150" alt="GitHub Streak" /></a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=qretzuisx&show_icons=true&theme=synthwave&locale=en&layout=compact" height="150" alt="top languages" />
 </div>
 

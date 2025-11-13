@@ -3,7 +3,7 @@
   <!-- <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExaXVxcjM1b2Z5eHd4aWRybm84dndpMWN0bHVheGFscnh1dGc4bjFqOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/kLZdzioXwDJfwY7X5Z/giphy.gif" height="300" alt="cute gif" /> -->
 </div>
 
-<h3 align="center">Just your girly pop here ⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚</h3>
+<h3 align="center">Al que madruga, Dios le ayuda. ⋆˚꩜｡𐔌՞. .՞𐦯⋆. 𐙚 ˚</h3>
 
 <!-- <div align="center">
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo" />
